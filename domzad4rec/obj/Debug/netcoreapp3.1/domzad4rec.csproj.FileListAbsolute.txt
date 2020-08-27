@@ -1,0 +1,13 @@
+D:\domzadday6\domzad4rec\bin\Debug\netcoreapp3.1\domzad4rec.exe
+D:\domzadday6\domzad4rec\bin\Debug\netcoreapp3.1\domzad4rec.deps.json
+D:\domzadday6\domzad4rec\bin\Debug\netcoreapp3.1\domzad4rec.runtimeconfig.json
+D:\domzadday6\domzad4rec\bin\Debug\netcoreapp3.1\domzad4rec.runtimeconfig.dev.json
+D:\domzadday6\domzad4rec\bin\Debug\netcoreapp3.1\domzad4rec.dll
+D:\domzadday6\domzad4rec\bin\Debug\netcoreapp3.1\domzad4rec.pdb
+D:\domzadday6\domzad4rec\obj\Debug\netcoreapp3.1\domzad4rec.csprojAssemblyReference.cache
+D:\domzadday6\domzad4rec\obj\Debug\netcoreapp3.1\domzad4rec.AssemblyInfoInputs.cache
+D:\domzadday6\domzad4rec\obj\Debug\netcoreapp3.1\domzad4rec.AssemblyInfo.cs
+D:\domzadday6\domzad4rec\obj\Debug\netcoreapp3.1\domzad4rec.csproj.CoreCompileInputs.cache
+D:\domzadday6\domzad4rec\obj\Debug\netcoreapp3.1\domzad4rec.dll
+D:\domzadday6\domzad4rec\obj\Debug\netcoreapp3.1\domzad4rec.pdb
+D:\domzadday6\domzad4rec\obj\Debug\netcoreapp3.1\domzad4rec.genruntimeconfig.cache

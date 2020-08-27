@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dpYUYwMgWVVq5h5r7pu8LsTm3/tMEhzNT8wSW17l8Rszo1Yx25BzGpxkgBDyJOIUXkBOp6j32tdIb1OuhyQzJQ==",
+  "success": true,
+  "projectFilePath": "D:\\domzadday6\\domzad5rec\\domzad5rec.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
