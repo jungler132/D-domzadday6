@@ -13,6 +13,7 @@ namespace domzad4rec
                 int a = tryparse("first");
                 int b = tryparse("second");
                 (a_1, b_1, valid_check) = check_valid(a, b);
+                Console.ReadKey();
             }
             while (valid_check == false);
             Console.WriteLine(diapazon(a_1 + 1, b_1 - 1));
