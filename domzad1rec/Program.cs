@@ -8,6 +8,7 @@ namespace domzad1rec
         {
             ////Домашнее задание на тему Рекурсия и методы, кортежи, перечисления
             Console.WriteLine(Proc(2, 2, 0));
+            Console.ReadKey();
         }
         static int Proc(int num = 2, int steps = 2, int result = 0)
         {
