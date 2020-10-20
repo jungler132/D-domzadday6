@@ -10,6 +10,7 @@ namespace domzad3ec
             int stp = int.Parse(Console.ReadLine());
             stepen_hw(numb, stp);
             Console.WriteLine(stepen_hw(numb, stp));
+            Console.ReadKey();
         }
         static int stepen_hw(int numb, int stp)
         {
