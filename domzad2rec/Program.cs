@@ -9,6 +9,7 @@ namespace domzad2rec
             double num1 = tryparse("First");
             double num2 = tryparse("Second");
             Console.WriteLine(Nod(num1, num2));
+            Console.ReadKey();
         }
         static double Nod(double num1, double num2)
         {
